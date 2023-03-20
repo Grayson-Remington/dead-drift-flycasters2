@@ -19,10 +19,9 @@ export default function Home() {
 					<div className='video-container p-8'>
 						<iframe
 							className='bg-black w-full max-w-4xl h-full aspect-video rounded-xl relative '
-							src='https://www.youtube.com/embed/55ULxYpWnws'
-							title='YouTube video player'
+							title='vimeo-player'
+							src='https://player.vimeo.com/video/808878641?h=722da046f4'
 							frameborder='0'
-							allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
 							allowfullscreen
 						></iframe>
 					</div>
