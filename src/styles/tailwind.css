@@ -29,7 +29,7 @@ body {
 }
 .background-image {
 	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-		url(public/assets/fish-in-pool.jpg);
+		url(assets/fish-in-pool.jpg);
 	background-size: cover;
 }
 .video-container {
